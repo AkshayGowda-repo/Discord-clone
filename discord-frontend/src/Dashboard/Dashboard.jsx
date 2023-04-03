@@ -16,7 +16,7 @@ const Wrapper = styled("div")({
   display: "flex",
 });
 
-const Dashboard = ({ setUserDetails }) => {
+const Dashboard = ({ setUserDetails, isUserInRoom }) => {
   useEffect(() => {
     const userDetails = localStorage.getItem("user");
 
@@ -51,4 +51,4 @@ const mapActionsToProps = (dispatch) => {
   };
 };
 
-export default connect(null, mapActionsToProps)(Dashboard);
+export default connect(mapStoreStateToProps, mapActionsToProps)(Dashboard);

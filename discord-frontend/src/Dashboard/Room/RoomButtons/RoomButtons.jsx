@@ -5,7 +5,7 @@ import MicButton from "./MicButton";
 import CloseRoomButton from "./CloseRoomButton";
 import ScreenShareButton from "./ScreenShareButton";
 import { connect } from "react-redux";
-import { getActions } from "../../../store/actions/roomActions";
+import { getActions } from "../../../app/actions/roomActions";
 
 const MainContainer = styled("div")({
   height: "15%",
