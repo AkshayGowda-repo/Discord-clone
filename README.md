@@ -23,7 +23,7 @@
 ## Screenshots
 
 <div align="center">
-<a href="https://ibb.co/CQbKSZj"><img src="https://i.ibb.co/CQbKSZj/Discord-preview.png" alt="Discord-preview" border="0"></a>
+<a href="https://github.com/AkshayGowda-repo"><img src="https://i.ibb.co/Vmsr3Jd/Discord-dashboard.png" alt="Discord-dashboard" border="0"></a>
  
 </div>
 
