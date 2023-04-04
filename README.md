@@ -5,6 +5,9 @@
   <a href="https://ibb.co/9gXYTYQ"><img src="https://i.ibb.co/54Dc8cb/Discordclone.jpg" width="546" alt="Discordclone" border="0"></a>
   </p>
   <br />
+  ** NOTE - This project is not currently maintained. **
+
+Originally started as a simple chatting application to test my Frontend + Backend skills, magically turned into a Discord Clone.
   </div>
 
 ## Technologies
@@ -57,7 +60,7 @@ build for production and launch server
 $ npm run build
 $ npm run start
 
-for backend express server
+launch backend express server
 $nodemon server.js
 ```
 
@@ -68,7 +71,8 @@ $nodemon server.js
 
 ## Deployed
 
-- [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://discord-ak-clone.netlify.app)
+ [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://discord-ak-clone.netlify.app)
+ [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://discord-ak-clone.netlify.app)
 
 ## Features
 -   Real time messaging 
