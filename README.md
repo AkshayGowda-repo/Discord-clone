@@ -53,7 +53,7 @@ A clone of Discord with features like realtime chat app, roles, video channel ro
 
 ## Installation
 ```js
-#install dependencies
+install dependencies
 $ npm install
 
 build for production and launch server
