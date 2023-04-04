@@ -19,6 +19,14 @@
  [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/AkshayGowda-repo) 
  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/AkshayGowda-repo) 
 
+
+## Screenshots
+
+<div align="center">
+<a href="https://ibb.co/CQbKSZj"><img src="https://i.ibb.co/CQbKSZj/Discord-preview.png" alt="Discord-preview" border="0"></a>
+  <a href="https://ibb.co/DpZsLzN"><img src="https://i.ibb.co/DpZsLzN/Discord-dashboard.png" alt="Discord-dashboard" border="0"></a>
+</div>
+
 ## Table of contents
 
 - [About](#about)
