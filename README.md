@@ -24,7 +24,7 @@
 
 <div align="center">
 <a href="https://ibb.co/CQbKSZj"><img src="https://i.ibb.co/CQbKSZj/Discord-preview.png" alt="Discord-preview" border="0"></a>
-  <a href="https://ibb.co/DpZsLzN"><img src="https://i.ibb.co/DpZsLzN/Discord-dashboard.png" alt="Discord-dashboard" border="0"></a>
+ 
 </div>
 
 ## Table of contents
