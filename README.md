@@ -9,11 +9,14 @@
 
 ## Technologies
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/arihant-jain-09)]
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/arihant-jain-09)](https://github.com/AkshayGowda-repo)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/AkshayGowda-repo)
-[![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
- [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
-
+[![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/AkshayGowda-repo)
+ [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
+ [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/arihant-jain-09)](https://github.com/AkshayGowda-repo)
+  [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/AkshayGowda-repo)
+ [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/AkshayGowda-repo) 
+ [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/AkshayGowda-repo) 
 
 ## Table of contents
 
