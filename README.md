@@ -40,12 +40,13 @@
 
 ## About
 
-A clone of Discord with features like realtime chat app, roles, file sharing, servers...etc,
+A clone of Discord with features like realtime chat app, roles, video channel rooms...etc,
 - React is used along with Redux to power front-end.
-- Redux to manage state along with Redux Saga.
+- Redux toolkit to manage state along with Redux Saga.
+- Socket.io for real-time communication.
 - React Routing with Error handling and Discord Loading between pages.
-- Firebase is used for authentication and firestore to store messages, users and servers.
-- Material UI is used along with SASS with a little of styled components for UI.
+- MongoDB is used for data storing like messages, users, friends and servers.
+- Material UI is used for styling components UI.
 
 ## Installation
 ```js
@@ -55,30 +56,30 @@ $ npm install
 build for production and launch server
 $ npm run build
 $ npm run start
+
+for backend express server
+$nodemon server.js
 ```
 
 ## Links
 
-- [Website](https://arihant-jain-09.github.io/discord-clone/)
-- [GitHub](https://github.com/arihant-jain-09/discord-clone)
+- [Website](https://discord-ak-clone.netlify.app)
+- [GitHub](https://github.com/AkshayGowda-repo/Discord-clone)
 
 ## Deployed
 
-- [GitHub](https://arihant-jain-09.github.io/discord-clone/)
+- [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://discord-ak-clone.netlify.app)
 
 ## Features
 -   Real time messaging 
--   Loads User Data upon login (Servers, Channels, Roles)
--   Loading logo of Discord between page renderings
+-   Loads User Data upon login (Friends, Channels, Invitations)
+-   Indicator for online friends
 -   Creation and Joining Servers
--   Creation of Channels in a Server
--   Server Settings (Change name and delete)
--   Channel Settings (Change name and delete)
+-   Screen Sharing capabilities
+-   Invite friends using mailID
 -   Reply to messages
--   Upload and send images, audio files
--   Auto render video from links
 -   Timestamps for messages
--   Create new Roles unique to each server
+
 
 ## Contribution
 Contributions are always Welcome...
