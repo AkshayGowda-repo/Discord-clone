@@ -9,7 +9,7 @@
 
 ## Technologies
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/arihant-jain-09)](https://github.com/AkshayGowda-repo)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/AkshayGowda-repo)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/AkshayGowda-repo)
 [![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/AkshayGowda-repo)
  [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
